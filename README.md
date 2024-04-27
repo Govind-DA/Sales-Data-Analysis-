@@ -55,10 +55,10 @@ Few Insights From This Analysis is Given Below:
 
 # Sales per Quarter
 
-**Quarter 1 - 0.91M**
+**Quarter 1 - 6.8M**
 
-**Quarter 2 - 1.29M**
+**Quarter 2 - 9.1M**
 
-**Quarter 3 - 0.94M**
+**Quarter 3 - 7.0M**
 
-**Quarter 4 - 1.56M**
+**Quarter 4 - 11.5M**
