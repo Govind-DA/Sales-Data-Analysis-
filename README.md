@@ -15,20 +15,30 @@ A deep dive into sales data, aimed at extracting valuable insights to enhance st
 Few Insights From This Analysis is Given Below:
 
 ✓ **San Francisco** leads the pack in **sales** with **8.26M**.
+
 ✓ **Austin** lags behind in sales, contributing only **1.82M**.
+
 ✓ **MacBook Pro Laptop**  generated **highest revenue** - **8.04M**
+
 ✓ **AAA Battery(4 pack)** generated **least revenue** - **0.09M**
+
 ✓ **Sales peaked** in the month of **December i.e. (4.61M)**.
+
 ✓ **January** saw a **sales dip, hitting (1.82M)**.
+
 ✓ **Sales** is **highest at 1900 Hour** and **least at 0300 Hour**.
 
 
 # Top 5 Products Based on Sum of Sales
 
 **1. MacBook Pro Laptop - 8.04M** 
+
 **2. iPhone - 4.79M**
+
 **3. ThinkPad Laptop - 4.13M**
+
 **4. Google Phone - 3.32M**
+
 **5. 27in 4K Gaming Monitor - 2.44M**
 
 # Top 5 Products based on Sales count -
@@ -46,6 +56,9 @@ Few Insights From This Analysis is Given Below:
 # Sales per Quarter
 
 **Quarter 1 - 0.91M**
+
 **Quarter 2 - 1.29M**
+
 **Quarter 3 - 0.94M**
+
 **Quarter 4 - 1.56M**
